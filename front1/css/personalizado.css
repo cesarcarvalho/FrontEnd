@@ -1,0 +1,46 @@
+nav ul li a {
+    color: #fff !important;
+}
+
+nav ul li a:hover {
+    color: #ccc !important;
+}
+
+header {
+    margin-bottom: 0px !important;
+}
+
+.fundo1 {
+    background-color: #E6F9FF;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1em;
+}
+
+.slide_transp {
+    background-color: #347d7a;
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.7;
+}
+
+.text-img {
+    margin-top: 5px;
+}
+
+.newsletter {
+    background-color: #347d7a;
+    background-size: 100%;
+    margin-top: 5px;
+    padding-top: 5px;
+    color: #fff;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
