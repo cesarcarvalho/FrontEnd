@@ -1,0 +1,13 @@
+body {
+    background-image: url('../images/256541.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.login {
+    background-color: #ccc;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    height: 350px;
+    border-radius: 10px;
+}
